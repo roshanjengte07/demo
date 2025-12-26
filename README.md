@@ -1,4 +1,4 @@
 # demo
 this is my first Git Reporting
 <br>
-Auther - Roshan Jengte
+Auther - Roshan Jengte (Data analyst)
